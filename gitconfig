@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = w.p.may@hotmail.co.uk
+	name = Will May
